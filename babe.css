@@ -1,0 +1,26 @@
+body{
+    background: rgb(230, 180, 15);
+}
+
+header{
+    background: rgb(241, 233, 233);
+    text-align: center;
+    word-spacing:4rem;
+}
+
+nav a{
+    text-decoration-color: azure;
+}
+
+hr{
+    color: #333;
+}
+
+section.home div{
+
+ text-align: left;
+}
+
+
+
+
